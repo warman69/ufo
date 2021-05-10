@@ -7,12 +7,12 @@ void theyReWatchingUs(int x) {
 void theyReComing() {
 	int x;
 	while (x --\
-				\
-				 \
-				  \
-				   > 0) {
+		    \
+		     \
+		      \
+		       > 0) {
 		if (x % 9 == 0)
-			printf("🛸	🛸	🛸	🛸	🛸	🛸	🛸	🛸	🛸	🛸");
+			printf("🛸\t🛸\t🛸\t🛸\t🛸\t🛸\t🛸\t🛸\t🛸\t🛸");
 		else if (x % 8 == 0)
 			printf("   _____ _    _  _____ _____ ");
 		else if (x % 7 == 0)
